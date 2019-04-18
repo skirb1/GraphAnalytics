@@ -99,6 +99,8 @@ public class MGraph
 	{
 		return vertexIDs.get(j);
 	}
+
+	public int getVertexIndexFromID(String id){ return vertexIndices.get(id); }
 	
 	private void initVertexIndices()
 	{

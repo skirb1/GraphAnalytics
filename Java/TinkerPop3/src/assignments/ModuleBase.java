@@ -5,15 +5,13 @@ import org.apache.tinkerpop.gremlin.tinkergraph.structure.TinkerGraph;
 
 public class ModuleBase {
 
-    protected String GRAPH_FILE;
-
     protected TinkerGraph graph;
 
     public ModuleBase(){ }
 
-    public TinkerGraph createGraph()
+    public TinkerGraph createGraph(String graph_file)
     {
-        TinkerGraph graph = GraphUtils.readGraphML(GRAPH_FILE);
+        TinkerGraph graph = GraphUtils.readGraphML(graph_file);
         return graph;
     }
 

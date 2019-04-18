@@ -5,6 +5,7 @@ import org.apache.tinkerpop.gremlin.structure.Direction;
 import org.apache.tinkerpop.gremlin.structure.Vertex;
 import org.apache.tinkerpop.gremlin.tinkergraph.structure.TinkerGraph;
 
+import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 

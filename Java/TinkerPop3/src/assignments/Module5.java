@@ -16,7 +16,7 @@ public class Module5 {
     private String GRAPH_FILE;
 
     public Module5(){
-        GRAPH_FILE = "GraphDatabases\\karate.graphml";
+        GRAPH_FILE = "GraphDatabases\\students.graphml";
         TinkerGraph graph = GraphUtils.readGraphML(GRAPH_FILE);
 
         System.out.println("Average clustering coefficient: " +
