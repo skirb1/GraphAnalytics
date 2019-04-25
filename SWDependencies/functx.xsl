@@ -26,7 +26,12 @@
  @version 1.0
  @see     http://www.xsltfunctions.com
 -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:dxmlf="http://www.datypic.com/xmlf" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:local="http://www.datypic.com/local" xmlns:functx="http://www.functx.com" exclude-result-prefixes="dxmlf xs" version="2.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+      xmlns:dxmlf="http://www.datypic.com/xmlf" 
+      xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+      xmlns:fn="http://www.w3.org/2005/xpath-functions" 
+      xmlns:local="http://www.datypic.com/local" 
+      xmlns:functx="http://www.functx.com" exclude-result-prefixes="dxmlf xs" version="2.0">
 <link/>
 <xsl:function xmlns:functx="http://www.functx.com" name="functx:add-attributes" as="element()?">
 <xsl:param name="elements" as="element()*"/>

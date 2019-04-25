@@ -1,458 +1,631 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root isBackward="false">
-  <file path="$PROJECT_DIR$/build.xml" />
-  <file path="$PROJECT_DIR$/Diffs.txt" />
-  <file path="$PROJECT_DIR$/mod5_code.zip" />
-  <file path="$PROJECT_DIR$/mod6_code.zip" />
-  <file path="$PROJECT_DIR$/mod7_assignment.7z" />
-  <file path="$PROJECT_DIR$/mod8_code.zip" />
-  <file path="$PROJECT_DIR$/README.txt" />
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/AttributeValidator.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Mediator.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Override.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/BuilderObserver.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Builder.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ElementValidator.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/TextValidator.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/BuilderObserver.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Mediator.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayDeque.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/AttributeValidator.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/BuilderObserver.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Mediator.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Director.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLTokenizer.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/BufferedWriter.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileOutputStream.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileNotFoundException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/File.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLToken.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Builder.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/OutputStreamWriter.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Throwable.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Attr.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Element.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/TypeInfo.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Text.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Attr.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ListIterator.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/UnsupportedOperationException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/CDATASection.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Element.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentType.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMConfiguration.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentFragment.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayDeque.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Iterator.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/LinkedList.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/ProcessingInstruction.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NodeList.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/EntityReference.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMImplementation.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/ElementProxy.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Comment.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/DocumentAdapter.java">
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/ProcessingInstruction.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Override.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/NodeList.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/CDATASection.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/EntityReference.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentType.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Document.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMImplementation.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMConfiguration.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NodeAdapter.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentFragment.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Attr.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Text.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Element.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Comment.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/DocumentDecorator.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/DocumentValidator.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/CDATASection.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentType.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMConfiguration.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentFragment.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Iterator.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/ProcessingInstruction.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/EntityReference.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMImplementation.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/DocumentDecorator.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Comment.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Element.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NodeList.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Attr.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ListIterator.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/TypeInfo.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NamedNodeMap.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/LinkedList.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/ElementDecorator.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/ElementProxy.java">
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Override.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Element.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/TypeInfo.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/ElementValidator.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/TypeInfo.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/ElementDecorator.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NamedNodeMap.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NodeList.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Attr.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ListIterator.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Element.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/LinkedList.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NodeList.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/UserDataHandler.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/IndexOutOfBoundsException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/LinkedList.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NodeAdapter.java">
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Override.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/NodeList.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/UserDataHandler.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/DocumentAdapter.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/NamedNodeMap.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Document.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NodeList.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/LinkedList.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/RealElement.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Element.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java">
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/TypeInfo.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java">
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/ProcessingInstruction.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/CDATASection.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/EntityReference.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentType.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMImplementation.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMConfiguration.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentFragment.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Iterator.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Comment.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/TypeInfo.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java">
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/UserDataHandler.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java">
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Text.java">
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/IndexOutOfBoundsException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ElementValidator.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Mediator.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Override.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/BuilderObserver.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Mediator.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/BuilderObserver.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/TextValidator.java">
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Mediator.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Override.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/BuilderObserver.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java">
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Vector.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Boolean.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java">
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/BufferedWriter.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileOutputStream.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileNotFoundException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/File.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/OutputStreamWriter.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Throwable.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLToken.java">
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Enum.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLTokenizer.java">
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/regex/Matcher.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLToken.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/BufferedReader.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileNotFoundException.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileReader.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Throwable.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/regex/Pattern.java" />
-  </file>
-  <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java">
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Vector.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/ElementValidator.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/BufferedWriter.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileOutputStream.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/File.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/OutputStreamWriter.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/DocumentValidator.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Throwable.java" />
-    <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java" />
-    <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java" />
-  </file>
-  <file path="$PROJECT_DIR$/Test1.xml" />
-  <file path="$PROJECT_DIR$/Test2.xml" />
+      <file path="$PROJECT_DIR$/build.xml"/>
+      <file path="$PROJECT_DIR$/Diffs.txt"/>
+      <file path="$PROJECT_DIR$/mod5_code.zip"/>
+      <file path="$PROJECT_DIR$/mod6_code.zip"/>
+      <file path="$PROJECT_DIR$/mod7_assignment.7z"/>
+      <file path="$PROJECT_DIR$/mod8_code.zip"/>
+      <file path="$PROJECT_DIR$/README.txt"/>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/AttributeValidator.java">
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Mediator.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Override.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/BuilderObserver.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Builder.java">
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ElementValidator.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/TextValidator.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/BuilderObserver.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Mediator.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayDeque.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/AttributeValidator.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/BuilderObserver.java">
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Mediator.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Director.java">
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLTokenizer.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/BufferedWriter.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileOutputStream.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileNotFoundException.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/File.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLToken.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Builder.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/OutputStreamWriter.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Throwable.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Attr.java">
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Element.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/TypeInfo.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java">
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Text.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Attr.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ListIterator.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/UnsupportedOperationException.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/CDATASection.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Element.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentType.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMConfiguration.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentFragment.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayDeque.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Iterator.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/LinkedList.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/ProcessingInstruction.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NodeList.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/EntityReference.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMImplementation.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/ElementProxy.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Comment.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/DocumentAdapter.java">
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/ProcessingInstruction.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Override.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/NodeList.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/CDATASection.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/EntityReference.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentType.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Document.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMImplementation.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMConfiguration.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NodeAdapter.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentFragment.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Attr.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Text.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Element.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Comment.java"
+            />
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/DocumentDecorator.java">
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java"
+            />
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/DocumentValidator.java">
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/CDATASection.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentType.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMConfiguration.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentFragment.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Iterator.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/ProcessingInstruction.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/EntityReference.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMImplementation.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/DocumentDecorator.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Comment.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Element.java">
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NodeList.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Attr.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ListIterator.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/TypeInfo.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NamedNodeMap.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/LinkedList.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/ElementDecorator.java">
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/ElementProxy.java">
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Override.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Element.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/TypeInfo.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/ElementValidator.java">
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/TypeInfo.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/ElementDecorator.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NamedNodeMap.java">
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NodeList.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Attr.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ListIterator.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Element.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/LinkedList.java"
+            />
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java">
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NodeList.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/UserDataHandler.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/IndexOutOfBoundsException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/LinkedList.java"
+            />
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NodeAdapter.java">
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Override.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/NodeList.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/UserDataHandler.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/DocumentAdapter.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/NamedNodeMap.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Document.java"
+            />
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/NodeList.java">
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/LinkedList.java"
+            />
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/RealElement.java">
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Element.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java">
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/TypeInfo.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java">
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/ProcessingInstruction.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/CDATASection.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/EntityReference.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentType.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMImplementation.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMConfiguration.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DocumentFragment.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Iterator.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Comment.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java">
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/TypeInfo.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java"
+            />
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java">
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java">
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/UserDataHandler.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NamedNodeMap.java"
+            />
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/NodeList.java">
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java">
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Text.java">
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/IndexOutOfBoundsException.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/w3c/dom/DOMException.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Node.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ElementValidator.java">
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Mediator.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Override.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/BuilderObserver.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Mediator.java">
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/BuilderObserver.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java"
+            />
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/TextValidator.java">
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/Mediator.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Override.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/BuilderObserver.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java">
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Vector.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Boolean.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java">
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/BufferedWriter.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileOutputStream.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileNotFoundException.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/File.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Writer.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/OutputStreamWriter.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Throwable.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLToken.java">
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Enum.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLTokenizer.java">
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/regex/Matcher.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLToken.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/BufferedReader.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileNotFoundException.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileReader.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Throwable.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/regex/Pattern.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLValidator.java">
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Vector.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/ElementValidator.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/ValidChildren.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/BufferedWriter.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileOutputStream.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/File.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Attr.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/XMLSerializer.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/IOException.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Document.java"/>
+            <dependency
+                  path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/OutputStreamWriter.java"/>
+            <dependency path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/Document.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/DocumentValidator.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Element.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Throwable.java"/>
+            <dependency path="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Node.java"/>
+            <dependency
+                  path="$PROJECT_DIR$/src/edu/jhu/apl/patterns_class/dom/replacement/Text.java"/>
+      </file>
+      <file path="$PROJECT_DIR$/Test1.xml"/>
+      <file path="$PROJECT_DIR$/Test2.xml"/>
 </root>
-
