@@ -1,5 +1,7 @@
 package assignments;
 
+import FinalProject.MyGraphUtils;
+import FinalProject.MyUtils;
 import graph.GraphUtils;
 import graph.MGraph;
 import org.apache.commons.math3.linear.EigenDecomposition;

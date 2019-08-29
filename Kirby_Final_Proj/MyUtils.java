@@ -1,5 +1,7 @@
-package assignments;
+package FinalProject;
 
+import java.util.Iterator;
+import java.util.List;
 import java.util.Vector;
 
 public class MyUtils {
@@ -45,4 +47,29 @@ public class MyUtils {
         return index;
     }
 
+    public static int countIterator(Iterator it){
+        int count = 0;
+        while(it.hasNext())
+        {
+            it.next();
+            count++;
+        }
+        return count;
+    }
+
+    public static double getAverageFromInt(List<Integer> list){
+        int sum = 0;
+        for(Integer i : list){
+            sum += i;
+        }
+        return (double)sum / list.size();
+    }
+
+    public static double getAverage(List<Double> list){
+        double sum = 0;
+        for(Double i : list){
+            sum += i;
+        }
+        return sum / list.size();
+    }
 }

@@ -1,5 +1,6 @@
 package assignments;
 
+import FinalProject.MyGraphUtils;
 import graph.GraphUtils;
 import org.apache.tinkerpop.gremlin.structure.Direction;
 import org.apache.tinkerpop.gremlin.structure.Vertex;
